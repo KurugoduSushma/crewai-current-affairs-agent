@@ -19,7 +19,7 @@ This Google Colab notebook demonstrates how to build a **multi-agent AI system**
 ---
 📌 **Use Cases**:
 - For students preparing for current affairs
-- For news curators and journalists
+- For news creators and journalists
 - For anyone exploring multi-agent systems with CrewAI
 
 ---
